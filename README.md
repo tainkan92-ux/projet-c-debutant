@@ -8,10 +8,13 @@ Ce dépôt contient mes premiers projets réalisés en langage C dans le cadre d
 Programme permettant d’effectuer des opérations simples (addition, soustraction, multiplication, division).
 
 ### Quiz interactif
-Programme posant plusieurs questions à l’utilisateur avec un score final et des messages selon les réponses.
+Programme posant plusieurs questions à l’utilisateur avec un score final.
 
-### Horloge
-Programme affichant une horloge simple.
+### Programme de gestion bancaire
+Programme permettant de :
+- consulter un solde
+- déposer de l’argent
+- retirer de l’argent (avec vérification du solde)
 
 ## Objectif
 
